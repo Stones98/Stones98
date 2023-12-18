@@ -1,6 +1,6 @@
-- 👋 我是石梦麟
-- 👀 来自复旦大学
-  是一名博士生
+- 👋 SML
+  
+- 👀 FDU
 
 <!---
 Stones98/Stones98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
